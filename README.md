@@ -11,3 +11,4 @@ The steps to run this project are as follows:
 For more than 2 faces to be recognized change the id number from 2 to any other greater number desired in file "3. face recognition.py".
 
 Thanks!!
+![alt test](Screen Shot 2019-12-12 at 8.01.02 PM.jpg)
